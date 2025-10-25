@@ -1,3 +1,9 @@
+![Banner](https://github.com/Nizar-05/Nizar-05/blob/main/banner.png?raw=true)
+<h3 align="center">💻 Cybersecurity & Ethical Hacking Enthusiast | BSc Computer Science @ Southwest Petroleum University</h3>
+<p align="center">Exploring the depths of Network Security, Linux Hardening, Digital Forensics, and Ethical Hacking. 🌐</p>
+
+> “There’s no patch for human curiosity.” — Anonymous Hacker
+
 <!-- 🕶️ Nizar Mahboub | Dark Cybersecurity-Themed GitHub README -->
 
 <h1 align="center">🧠 Nizar Mahboub</h1>
