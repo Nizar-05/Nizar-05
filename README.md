@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nizar Mahboub</h1>
 
 <p align="center">
-  <i>Computer Science student focused on practical cybersecurity fundamentals</i>
+  <i>Backend Engineer in progress • Building secure and scalable systems</i>
 </p>
 
 ---
@@ -10,55 +10,60 @@
 
 - 🎓 BSc in Computer Science — Southwest Petroleum University (Chengdu, China)
 - 🌍 From Morocco 🇲🇦
-- 🔐 Focus areas: Network Security, Linux Security, and hands-on labs
-- 🧠 Learning through practice, documentation, and experimentation
-- 🧪 Regular user of TryHackMe for structured security labs
+- 💼 Backend Engineer Intern working on a multi-tenant SaaS platform
+- 🔐 Interested in Application Security & DevSecOps
+- 🧠 Focused on building secure backend systems with strong fundamentals
+
+Currently combining backend engineering with security knowledge to move toward Application Security.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
+### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,linux,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Network_Security-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Nmap-Scanning-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-Web_Testing-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Linux-Security-lightgrey?style=flat-square"/>
-</p>
+- Django & Django REST Framework
+- REST API Design
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Multi-Tenant Architecture
+- MySQL & Database Design
+- Celery (Background Tasks)
 
 ---
 
-## 🚀 Learning & Practice
+### Security Foundations
 
-- ✅ TryHackMe — Pre-Security
-- 🚀 TryHackMe — Cybersecurity 101 (in progress)
-- 🐧 Linux for security fundamentals
-- 🌐 Networking fundamentals
-- 🕸️ Web security basics (OWASP concepts)
-- 🧬 Introductory digital forensics concepts
-
----
-
-## 📊 TryHackMe
-
-<p align="center">
-  <a href="https://tryhackme.com/p/NizarMHB">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/NizarMHB.png" alt="TryHackMe Badge" />
-  </a>
-</p>
+- Linux System Fundamentals
+- Networking (TCP/IP, DNS, HTTP)
+- Web Security Basics (OWASP concepts)
+- Secure Authentication & Authorization Design
+- TryHackMe Labs (Pre-Security, Cybersecurity 101)
 
 ---
 
-## 📂 Current Work
+## 🚀 Current Focus
 
-- 📝 Writing structured notes from security labs
-- 🔧 Creating small scripts to automate repetitive tasks
-- 🔍 Practicing network reconnaissance and analysis
-- 📁 Documenting CTF-style challenges and findings
+- 🔧 Designing secure backend architectures
+- 🔐 Improving authentication & authorization systems
+- 🧪 Understanding application security vulnerabilities
+- 📈 Strengthening Linux & networking foundations
+- 📝 Documenting technical learnings and experiments
+
+---
+
+## 📂 Projects
+
+- 🏢 Multi-Tenant SaaS Platform (Django + DRF)
+  - JWT Authentication
+  - RBAC (Admin / Staff / User)
+  - Tenant Data Isolation
+  - Secure REST APIs
+
+(More backend & security-focused projects coming soon.)
 
 ---
 
@@ -68,13 +73,13 @@
   <a href="mailto:nizar.mahboub5@gmail.com">
     <img src="https://img.shields.io/badge/Email-nizar.mahboub5%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://tryhackme.com/p/NizarMHB">
-    <img src="https://img.shields.io/badge/TryHackMe-NizarMHB-212C42?style=for-the-badge&logo=tryhackme" />
+  <a href="https://www.linkedin.com/in/nizar-mahboub">
+    <img src="https://img.shields.io/badge/LinkedIn-Nizar%20Mahboub-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ <i>Documenting what I learn. Publishing what matters.</i> ⚡
+  ⚡ Building secure systems. Growing toward Application Security. ⚡
 </p>
